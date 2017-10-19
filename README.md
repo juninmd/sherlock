@@ -1,6 +1,6 @@
 # sherlock
 
-![sherlock](https://github.com/juninmd/sherlock/blob/sherlock.png)
+![sherlock](https://raw.githubusercontent.com/juninmd/sherlock/master/github/sherlock.png)
 
 ## O que é?
 Bot para facilitar a comunicação de `Pull Requests` com a equipe de desenvolvimento
